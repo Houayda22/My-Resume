@@ -3,7 +3,7 @@ basic:
   title:            # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/<ADD-Yours-Here.png> # follow the path and include your picture
+    path: /assets/images/profile.png # follow the path and include your picture
 
 contact:
   # meta
@@ -92,7 +92,7 @@ experience:
 
   items:
     - company: NXC international 
-      link: '<add nxci.ca website here>'
+      link: "https://nxci.ca/our-services/"
       tags: Full-time
       date: 2023.06.1 - 2023.06.30
       role: Developer
@@ -130,7 +130,7 @@ education:
   title: Education
   items:
     - institution: Higher Institute of Applied Languages and Computer Science in Beja
-      link: '<add-univeritsy-link-here>'
+      link: "http://www.islaib.rnu.tn/Fr/accueil_46_4"
       date: 2022 - 2025
       major: Software Engineering and Information Systems
       degree: Bachelor
@@ -159,14 +159,7 @@ reference:
   order: 14
   title: References
   
-  # This section is duplicated 
-  items:
-    - name: Delete this if not required
-      link: '#'
-      title:  Developer
-      email: Houayda.ouasli2001@gmail.com
-      phone: +216 90561270
-  ## -----
+  
   
     - name: Houayda Ouasli
       link:

@@ -3,7 +3,7 @@ basic:
   title: Student          # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /_sass/img.png # avatar file path
+    path: /_sass/profile.png # avatar file path
 
 contact:
   # meta

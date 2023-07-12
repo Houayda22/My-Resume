@@ -3,7 +3,7 @@ basic:
   title:            # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # follow the path and include your picture
+    path: /_sass/img.jpg # follow the path and include your picture
 
 contact:
   # meta
@@ -159,8 +159,7 @@ reference:
   order: 14
   title: References
   
-  
-  
+  items:
     - name: Houayda Ouasli
       link:
       title: Student

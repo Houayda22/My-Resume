@@ -3,7 +3,7 @@ basic:
   title:            # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /_sass/img.jpg # follow the path and include your picture
+    path: /_sass/img.png # follow the path and include your picture
 
 contact:
   # meta
@@ -153,6 +153,21 @@ language:
       level: Professional
     - idiom: Engish 
       level: acceptable
+      
+ interest:
+  show: true
+  order: 12
+  title: Interests
+  items:
+    - item: Reading
+      link: 
+    - item: Cooking
+      link:
+    - item: web development
+      link:
+    - item: photographie
+      link:
+
       
 reference:
   show: true

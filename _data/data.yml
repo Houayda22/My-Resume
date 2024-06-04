@@ -13,7 +13,6 @@ contact:
   website:      # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:  woman                # gender or pronoun
-  birthday: 12/05/2001                # birthday
   nationality:             # nationality
   visa:                    # passport visa
   drivinglicense:          # driving licence
@@ -121,10 +120,10 @@ skill:
       level: 3
     - name: Ms Office
       level: 3
-    - name: Mysql
-      level: 4
-    - name: Azure
-      level: 2
+    - name: Mysql/mysq
+      level: 3
+    - name: Java
+      level: 3
 
 education:
   show: true

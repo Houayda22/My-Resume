@@ -3,7 +3,7 @@ basic:
   title: Student          # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/profile.png # avatar file path
+  
 
 contact:
   # meta
@@ -120,7 +120,7 @@ skill:
       level: 3
     - name: Ms Office
       level: 3
-    - name: Mysql/mysq
+    - name: Mysql
       level: 3
     - name: Java
       level: 3
